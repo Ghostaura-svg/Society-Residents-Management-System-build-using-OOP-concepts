@@ -72,5 +72,4 @@ This project was developed as an academic Object-Oriented Programming (OOP) seme
 ---
 
 ⭐ If you found this project helpful, consider giving it a star!
-````
 
